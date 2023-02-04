@@ -1,5 +1,4 @@
 let scoreHomeEl = document.getElementById("score-home");
-//let homeButton1 = document.getElementById("home-button-1");
 let scoreHome = 0;
 
 function add1() {
